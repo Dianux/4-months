@@ -9,8 +9,7 @@ Install Python version 3.6
 
 Use the following libraries
 ```
-urlllib contains functions for requesting data across the web, 
-handling cookies and changing metadata such as headers, etc.
+urlllib 
 
 import json
 ```
