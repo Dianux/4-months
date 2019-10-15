@@ -9,7 +9,7 @@ Install Python version 3.6
 
 Use the following libraries
 ```
-urlllib 
+urlllib2 
 
 import json
 ```
