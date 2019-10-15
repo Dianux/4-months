@@ -8,5 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 Install Python version 3.6 
 
 Use the following libraries
-```urlllib contains functions for requesting data across the web, handling cookies and changing metadata such as headers, etc.
-```import jason
+```
+urlllib contains functions for requesting data across the web, handling cookies and changing metadata such as headers, etc.
+```
+import jason
